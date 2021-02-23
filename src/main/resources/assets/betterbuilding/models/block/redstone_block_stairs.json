@@ -1,0 +1,1 @@
+{"parent": "minecraft:block/stairs", "textures": {"bottom": "minecraft:block/redstone_block", "top": "minecraft:block/redstone_block", "side": "minecraft:block/redstone_block"}}

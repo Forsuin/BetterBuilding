@@ -1,0 +1,1 @@
+{"parent": "minecraft:block/outer_stairs", "textures": {"bottom": "minecraft:block/honey_block_bottom", "top": "minecraft:block/honey_block_top", "side": "minecraft:block/honey_block_side"}}
